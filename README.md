@@ -27,3 +27,7 @@
 </div>
 
 
+<p align="center"> 
+
+  ![Snake animation](https://github.com/rhillarymay/rhillarymay/blob/output/github-contribution-grid-snake.svg)
+ </p>
