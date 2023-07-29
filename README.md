@@ -18,4 +18,4 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhillarymay&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
-<div align="center"> "<a href="https://picasion.com/"><img src="https://cdn.discordapp.com/attachments/739639363322773505/1133392630336733224/gitzin.gif" width="800" height="200" border="0" alt="https://picasion.com/" /></a><br />
+<div align="center"> <a href="https://picasion.com/"><img src="https://cdn.discordapp.com/attachments/739639363322773505/1133392630336733224/gitzin.gif" width="900" height="200" border="0" alt="https://picasion.com/" /></a><br />
